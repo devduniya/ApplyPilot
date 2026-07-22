@@ -1,0 +1,174 @@
+MAHESH TRIPATHI
+
+Senior Mobile Engineer
+Flutter | Android (Kotlin/Java) | React Native | iOS (SwiftUI/Swift)
+
+India
+Phone: +91 6390169361
+Email: maheshtripathi.dev@gmail.com
+LinkedIn: www.linkedin.com/in/maheshtripathidev
+GitHub: github.com/devduniya
+Portfolio: https://maheshtripathi.pages.dev/
+
+────────────────────────────────────────
+
+PROFESSIONAL SUMMARY
+
+Senior Mobile Engineer with around 4 years of experience building Android, Flutter, React Native, and iOS applications. Delivered 18+ production applications across FinTech, Real Estate, Healthcare, Social Networking, E-commerce, and AI-powered products. Experienced in complete SDLC ownership, Clean Architecture, MVVM, BLoC, Firebase, REST APIs, real-time systems, cloud integrations, and AI-assisted mobile development.
+
+────────────────────────────────────────
+
+TECHNICAL SKILLS
+
+Mobile
+• Flutter
+• Dart
+• Android
+• Kotlin
+• Java
+• Jetpack Compose
+• React Native
+• TypeScript
+• Swift
+• SwiftUI
+
+Architecture
+• Clean Architecture
+• MVVM
+• BLoC
+• GetX
+
+Android
+• Hilt
+• Coroutines
+• Flow
+• Room Database
+• Espresso
+
+iOS
+• Combine
+• Core Data
+• Async/Await
+• XCTest
+• TestFlight
+• APNs
+
+Backend & APIs
+• REST APIs
+• GraphQL
+• Firebase
+• Firestore
+• Firebase Cloud Messaging
+• Socket.IO
+• WebRTC
+• Agora RTC
+• Agora Chat
+
+Cloud & DevOps
+• AWS
+• Azure DevOps
+• GitHub Actions
+• SonarQube
+
+AI / ML
+• TensorFlow Lite
+• ML Kit
+• Cursor
+• Windsurf
+• GitHub Copilot
+
+Other
+• Stripe
+• Razorpay
+• Google Maps SDK
+• Git
+• Agile
+• SAFe
+• OOP
+• DSA
+
+────────────────────────────────────────
+
+PROFESSIONAL EXPERIENCE
+
+Maxtron Innovations
+Senior Mobile Engineer
+May 2025 – Present | Noida
+
+• Developed Flutter applications using Clean Architecture, MVVM, GetX, and Firebase.
+• Built iOS applications using SwiftUI with Core Location, APNs, Stripe, and GitHub Actions.
+• Developed Android applications using Kotlin, Jetpack Compose, Hilt, Coroutines, Socket.IO, Agora Chat, and MetaMask.
+• Built React Native applications using TypeScript, Expo, Redux Toolkit, and Privy Wallet SDK.
+• Delivered four concurrent client projects with 100% on-time delivery.
+• Introduced AI-assisted development workflows using Cursor and Claude.
+
+────────────────────────────────────────
+
+Webkul Software Pvt. Ltd.
+Software Engineer
+Sep 2024 – Feb 2025 | Noida
+
+• Developed Flutter eCommerce applications using MVVM.
+• Built EPUB Reader application with WebView, TTS, and bookmarking.
+• Developed Android POS Device Reader and Delivery applications.
+• Delivered React Native applications with payments, geolocation, and chat integrations.
+• Achieved zero critical production defects.
+
+────────────────────────────────────────
+
+Greenusys Technology Pvt. Ltd.
+Mobile App Developer → Senior Mobile App Developer
+Jul 2022 – Sep 2024 | Noida
+
+• Promoted to Senior Mobile App Developer for technical ownership.
+• Delivered 10+ mobile applications across Android, Flutter, iOS, and React Native.
+• Built blockchain, healthcare, logistics, social networking, fintech, and AI-powered applications.
+• Developed reusable Android AI SDK using TensorFlow Lite and ML Kit.
+• Delivered real-time ride tracking, healthcare, blockchain, and investment applications.
+
+────────────────────────────────────────
+
+KEY PROJECTS
+
+• Multi-Chain Crypto Wallet (Flutter)
+• Event Booking App (iOS)
+• Blockchain Event Platform (Android)
+• AI Crypto Intelligence (React Native)
+• Tokenised Real Estate (React Native)
+• eCommerce Platform
+• EPUB Reader
+• POS Device Reader
+• Delivery Boy App
+• Enterprise Utility Apps
+• Fractional Real Estate Platform
+• Investment Marketplace
+• Social Networking Platform
+• Astrologer Consultation App
+• On-Device AI SDK
+• Live Ride Tracking
+• Patient Management System
+• BLE Hardware Sync
+
+────────────────────────────────────────
+
+KEY ACHIEVEMENTS
+
+• 18+ Production Applications Delivered
+• Around 4 Years of Professional Experience
+• Zero Critical Post-release Defects
+• 50K+ Merchants Served
+• 10K+ Active Users on FinTech Platform
+• AI SDK Adopted Across 3 Client Applications
+• 100% On-time Project Delivery
+
+────────────────────────────────────────
+
+EDUCATION
+
+Bachelor of Technology (Computer Science Engineering)
+Dr. A.P.J. Abdul Kalam Technical University (AKTU)
+2019 – 2022
+
+Diploma in Computer Science Engineering
+Board of Technical Education Uttar Pradesh (BTEUP)
+2016 – 2019
